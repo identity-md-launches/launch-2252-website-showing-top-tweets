@@ -1,0 +1,3 @@
+# Path budget: generated dependencies at any depth, and disposable checks only.
+**/node_modules/
+/test/scratch/

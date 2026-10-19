@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="300" viewBox="0 0 580 300" fill="none">
+ <defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#446445" stroke-opacity=".2"/></pattern>
+ </defs>
+ <path d="M38 35H539V273H38z" fill="url(#grid)"/>
+ <g stroke="#57734c" stroke-width="1.5"><path d="M40 56V36h20m456 0h20v20M40 241v20h20m456 0h20v-20"/><path d="M355 46h31v32m-21-20h33" stroke-dasharray="4 5"/><circle cx="474" cy="154" r="83" stroke-opacity=".3"/><circle cx="474" cy="154" r="63" stroke-opacity=".2"/></g>
+ <!-- The second operator: a small Pepe with a field laptop. -->
+ <g transform="translate(368 84)">
+  <path d="M-5 167c1-46 21-63 65-61 40 0 63 25 68 61" fill="#254438" stroke="#071b13" stroke-width="5"/>
+  <path d="M18 102C-1 78 10 47 21 35c20-22 65-24 86 1 15 18 18 48 4 66-20 24-70 25-93 0Z" fill="#7ca353" stroke="#092319" stroke-width="4"/>
+  <path d="M13 65C-2 12 34 2 54 31 75 4 115 21 111 64" fill="#7ca353" stroke="#092319" stroke-width="4"/>
+  <path d="M19 49c6-18 23-17 31 0m13-1c9-17 26-14 33 3" fill="#e9eccd" stroke="#172f20" stroke-width="4"/>
+  <path d="M35 45v9m43-10v10" stroke="#092319" stroke-width="6" stroke-linecap="round"/>
+  <path d="M7 57c24 10 75 10 106 2l-7 23c-32 6-65 5-92-3Z" fill="#1c3e2f" stroke="#092319" stroke-width="3"/>
+  <path d="M20 67h32m23 1h21" stroke="#c2f471" stroke-width="3"/>
+  <path d="M35 95c14-6 32-5 46-1" stroke="#c09b63" stroke-width="8" stroke-linecap="round"/>
+  <path d="M26 108c-13 8-14 21-12 37m72-37c18 7 21 20 20 36" stroke="#082519" stroke-width="9"/>
+  <path d="m13 130 94-1-13 51H26z" fill="#577564" stroke="#092319" stroke-width="4"/>
+  <path d="m22 136 76-1-9 37H33z" fill="#122f23"/>
+  <path d="m48 149 9 7-10 7m17-16-5 19m10-16h10" stroke="#b9ef76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M9 181h104" stroke="#7a9974" stroke-width="5" stroke-linecap="round"/>
+ </g>
+ <!-- Foreground Pepe operator and AI-powered tool. -->
+ <path d="M92 285c-4-59 22-101 94-111 76-10 113 35 113 111" fill="#2d4c3d" stroke="#081e14" stroke-width="5"/>
+ <path d="m124 198 19 87m83-91-17 91" stroke="#6e8653" stroke-width="19"/>
+ <path d="m146 208 71-3-2 76h-61z" fill="#1c3629" stroke="#0b2419" stroke-width="4"/>
+ <path d="M161 228h37v21h-37zm0 31h34" stroke="#638451" stroke-width="3"/>
+ <path d="M109 155c-15-22-11-55 10-80 21-24 88-27 117-6 28 21 39 55 30 88-10 41-119 53-157-2Z" fill="#7ea357" stroke="#082318" stroke-width="5"/>
+ <path d="M116 120c-16-26-12-63 6-73 17-9 35-2 47 20 10-22 37-30 55-20 19 11 22 44 17 68" fill="#87ab5a" stroke="#0b291b" stroke-width="5"/>
+ <path d="M117 88c5-19 25-23 39-11l6 18-43 4zm64 6c0-23 25-31 41-17l11 18Z" fill="#e9ebca" stroke="#183923" stroke-width="4"/>
+ <path d="m145 81 1 16m58-18 1 15" stroke="#112a1b" stroke-width="8" stroke-linecap="round"/>
+ <path d="M118 123c25 11 75 15 111 1m-98 7c22 10 58 13 85 5" stroke="#5c8142" stroke-width="3"/>
+ <path d="M136 153c27-5 56-3 80 5-30 12-56 13-82 3" fill="#bd8e60" stroke="#734e39" stroke-width="3" stroke-linejoin="round"/>
+ <!-- Helmet, headset and neural module. -->
+ <path d="M105 88c-2-51 34-68 74-67 50 0 83 21 82 64l-28-11c-27-20-71-21-103-2Z" fill="#2c4938" stroke="#071f15" stroke-width="5"/>
+ <path d="M113 69c31-26 99-29 140 0l8 16-32-8c-30-18-64-18-97-4l-25 17Z" fill="#3e5c42" stroke="#0b281c" stroke-width="4"/>
+ <path d="m184 26-3 28m-37-24-7 28m80-22 8 21" stroke="#55704a" stroke-width="5"/>
+ <rect x="150" y="27" width="46" height="21" rx="4" fill="#b9ed72" stroke="#0d291b" stroke-width="3"/>
+ <path d="m166 32-5 6 5 5m15-11 5 6-5 5m-7-12-4 14" stroke="#26402a" stroke-width="2"/>
+ <path d="M108 88v39" stroke="#0b2418" stroke-width="12" stroke-linecap="round"/>
+ <rect x="94" y="91" width="25" height="43" rx="9" fill="#476448" stroke="#0b2418" stroke-width="4"/>
+ <path d="M98 128c-10 27 8 37 33 38" stroke="#102b1d" stroke-width="5" stroke-linecap="round"/>
+ <path d="m130 164 15 1" stroke="#a9cf70" stroke-width="7" stroke-linecap="round"/>
+ <!-- Hands and a distinctly fictional circuit-powered blaster. -->
+ <path d="M119 215c-21 3-32 27-25 42 6 12 27 10 42 5l41-19-13-24-34 9" fill="#789d50" stroke="#0b271b" stroke-width="5"/>
+ <path d="m141 236 43-22 53 43-19 27-49-30Z" fill="#152f26" stroke="#071e14" stroke-width="5"/>
+ <path d="m164 205 74-22 116 37-15 44-112-10-68-27Z" fill="#52755a" stroke="#082519" stroke-width="5"/>
+ <path d="m225 194 16-26 39 12 1 33m-97-6 35-10 9 48" stroke="#0e2b1e" stroke-width="5"/>
+ <path d="m247 206 81 25-7 21-85-10z" fill="#173e2a" stroke="#0b2c1d" stroke-width="3"/>
+ <path d="m258 216 54 17m-49-5 30 10" stroke="#bced75" stroke-width="4" stroke-linecap="round"/>
+ <path d="m337 220 24 7-12 38-21-5z" fill="#aac482" stroke="#0b281b" stroke-width="4"/>
+ <ellipse cx="356" cy="246" rx="8" ry="18" transform="rotate(17 356 246)" fill="#c8f888" stroke="#26472b" stroke-width="3"/>
+ <path d="M233 240c6-17 23-18 28-5 9-8 18 0 13 10 12-2 16 8 7 15-11 10-26 10-37 1Z" fill="#88ab58" stroke="#0a281a" stroke-width="4"/>
+ <path d="m251 244 14 12m-4-17 12 9" stroke="#52773a" stroke-width="3"/>
+ <!-- Floating processor, visually connected to the operators. -->
+ <path d="m298 48 36-10 25 28-38 13Z" fill="#aee176" stroke="#284c30" stroke-width="3"/>
+ <path d="m307 51 23-6 17 19-24 8Z" fill="#24462e"/>
+ <path d="m323 47 6 21m-16-10 27-5" stroke="#bcef78" stroke-width="2"/>
+ <g stroke="#92bc64" stroke-width="3"><path d="m301 43-6-7m19 4-3-9m16 5 1-9m15 15 8-7m3 18 10-4m-54 18-9 7m23 5 1 10m16-14 5 9"/></g>
+ <path d="m323 89-10 23h29l-22 36" stroke="#6e9655" stroke-width="2" stroke-dasharray="4 5"/>
+ <g fill="#bcec79"><path d="m67 146 3 8 8 3-8 3-3 8-3-8-8-3 8-3Z"/><path d="m510 55 2 6 7 2-7 3-2 6-3-6-6-3 6-2Z"/></g>
+ <path d="M64 285h477" stroke="#38533c" stroke-width="2"/>
+</svg>
